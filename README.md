@@ -1,3 +1,2 @@
-# xtod`s github pages
 
-Hello！
+Hello！ I am xtod.
