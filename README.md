@@ -1,2 +1,6 @@
 
-Hello！ I am dotx.
+Hello,I am dotx,my github username is xtod. :-P
+
+---
+
+![dotx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtod)
