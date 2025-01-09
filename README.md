@@ -7,3 +7,5 @@ contact me xtod at qq dot com
 ---
 
 ![dotx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtod)
+
+![favicon](/favicon.ico "favicon")
