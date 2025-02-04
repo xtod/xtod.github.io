@@ -5,4 +5,4 @@ contact me xtod at qq dot com
 [APP](/app.html)
 
 ---
-![favicon](/favicon.ico "favicon")
+![Favicon](/favicon.ico "Favicon")
