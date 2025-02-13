@@ -1,0 +1,20 @@
+Host github.com
+HostName ssh.github.com
+User git
+Port 443
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_ed25519
+
+
+Host bwg  
+User root 
+Hostname 96.45.186.50
+Port 9876    
+IdentityFile ~/.ssh/id_ed25519  #本地证书
+
+
+Host tk
+User root
+Hostname 199.180.255.45
+#Port 9876
+IdentityFile ~/.ssh/id_ed25519  #本地证书
