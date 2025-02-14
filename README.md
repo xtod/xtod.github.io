@@ -2,7 +2,7 @@ I am dotx,my github username is **xtod**.
 
 Welcome to my personal site!
 
-contact me `xtod at foxmail dot com`
+contact me `alairs at foxmail dot com`
 
 ## APP
 
