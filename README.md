@@ -10,7 +10,3 @@ contact me `alairs at foxmail dot com`
 - [OurTV_3.6.6](OurTV_3.6.6_android_tv.apk)
 - [CarPlus__v6.1.4_2265](lingmiaocarplus__v6.1.4_2265.apk)
 - [筷子输入法](Kuaizi_IME-3.0.4.apk)
-
----
-
-![Favicon](/favicon.ico "Favicon")
