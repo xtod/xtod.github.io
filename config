@@ -5,16 +5,18 @@ Port 443
 PreferredAuthentications publickey
 IdentityFile ~/.ssh/id_ed25519
 
-
 Host bwg  
 User root 
-Hostname 96.45.186.50
+Hostname b.zjq.xyz
 Port 9876    
-IdentityFile ~/.ssh/id_ed25519  #本地证书
-
+IdentityFile ~/.ssh/id_ed25519  
 
 Host tk
 User root
-Hostname 199.180.255.45
-#Port 9876
-IdentityFile ~/.ssh/id_ed25519  #本地证书
+Hostname t.zjq.xyz
+IdentityFile ~/.ssh/id_ed25519  
+
+Host raspi2b  
+User  bbq 
+Hostname  raspi2b 
+IdentityFile ~/.ssh/id_ed25519 
