@@ -1,4 +1,4 @@
-** Welcome to <http://xtod.org> **
+**Welcome to XTOD!**
 
 ### links
 
