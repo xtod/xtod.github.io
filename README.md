@@ -1,8 +1,5 @@
-I am dotx,my github username is **xtod**. 
+Welcome to xtod.org
 
-Welcome to my personal site!
-
-contact me `alairs at foxmail dot com`
 
 ## APP
 - [debian.sources.list.bookworm](debian.sources.list.bookworm)
