@@ -1,0 +1,2 @@
+deb https://mirrors.ustc.edu.cn/debian/ sid main contrib non-free non-free-firmware
+deb-src https://mirrors.ustc.edu.cn/debian/ sid main contrib non-free non-free-firmware
