@@ -21,6 +21,6 @@ User  bbq
 Hostname  raspi2b 
 IdentityFile ~/.ssh/id_ed25519 
 
-Host vmd  
+Host vml  
 User  bbq 
-Hostname  172.20.200.95 
+Hostname  172.31.185.20
