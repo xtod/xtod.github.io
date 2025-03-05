@@ -4,7 +4,7 @@
 
 - [debian.sources.list.bookworm](debian.sources.list.bookworm)
 - [debian.sources.list.sid](debian.sources.list.sid)
-- [authorized_keys](authorized_keys)
+
   
 - [当贝市场](dangbeimarket_5.0.9_321_letvnoinstall.apk)
 - [OurTV_3.6.6](OurTV_3.6.6_android_tv.apk)
