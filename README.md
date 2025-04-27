@@ -1,4 +1,4 @@
-**Welcome to xtod.org.**
+**Welcome to GGLL**
 
 - [debian.sources.list.bookworm](debian.sources.list.bookworm)
 - [debian.sources.list.sid](debian.sources.list.sid)
