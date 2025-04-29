@@ -3,5 +3,13 @@ description: '个人网站'
 show_downloads: false
 #remote_theme: pages-themes/cayman@v0.2.0
 remote_theme: "jekyll/minima@1e8a445"
+minima:
+  nav_pages:
+    - http://unixetc.com/
+    - readme.md
+  social_links:
+    - title: Markdown
+      icon: github
+      url: "https://markdown.hk/"    
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
