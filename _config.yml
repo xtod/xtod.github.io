@@ -5,8 +5,7 @@ show_downloads: false
 remote_theme: "jekyll/minima@1e8a445"
 minima:
   nav_pages:
-    - http://unixetc.com/
-    - readme.md
+    - about.md
   social_links:
     - title: Markdown
       icon: github
