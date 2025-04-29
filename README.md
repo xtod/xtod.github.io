@@ -1,4 +1,3 @@
-# 光怪陆离
 ## ZeroOmega
 
 <https://github.com/zero-peak/ZeroOmega>
