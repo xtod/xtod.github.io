@@ -1,12 +1,4 @@
-**Welcome to GGLL**
-
-- [debian.sources.list.bookworm](debian.sources.list.bookworm)
-- [debian.sources.list.sid](debian.sources.list.sid)
-- [当贝市场](dangbeimarket_5.0.9_321_letvnoinstall.apk)
-- [OurTV_3.6.6](OurTV_3.6.6_android_tv.apk)
-- [CarPlus__v6.1.4_2265](lingmiaocarplus__v6.1.4_2265.apk)
-- [linuxdeploy-2.6.0-259](linuxdeploy-2.6.0-259.apk)
-
+# 光怪陆离
 ## ZeroOmega
 
 <https://github.com/zero-peak/ZeroOmega>
@@ -22,8 +14,8 @@
 bash <(curl -fsSL https://get.hy2.sh/)
 ```
 
-- [hysteria-windows-amd64-avx.exe](hysteria-windows-amd64-avx.exe)
-- [hysteria-linux-amd64-avx](hysteria-linux-amd64-avx)
+- [hysteria-windows-amd64-avx.exe](/hysteria-windows-amd64-avx.7z)
+- [hysteria-linux-amd64-avx](/hysteria-linux-amd64-avx.7z)
 
 ```sh
 ## config.yaml
@@ -39,3 +31,15 @@ http:
 tls:
   insecure: true  
 ```
+
+## github pages自定义域名配置
+
+|域|DNS类型|记录名|值|
+|-|-|-|-|
+|ggll.xyz|A|@|185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153|
+
+## 一些链接
+- [linuxdeploy-2.6.0-259](/linuxdeploy-2.6.0-259.apk)
