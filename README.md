@@ -8,7 +8,7 @@ Welcome!
 - [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/zeroomegaproxy-switchy-/dmaldhchmoafliphkijbfhaomcgglmgd)
 - [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/zeroomega/)
 - [ZeroOmegaOptions.bak](ZeroOmegaOptions.bak)
-- [gfwlist.txt](https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt)
+- [gfwlist.txt](https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt) [localhost](/gfwlist.txt)
 
 ## Hysteria
 ```sh
