@@ -44,3 +44,4 @@ tls:
 
 ## 一些链接
 - [linuxdeploy-2.6.0-259](/linuxdeploy-2.6.0-259.apk)
+- [fread](/fread.apk)
