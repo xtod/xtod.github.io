@@ -32,7 +32,7 @@ tls:
   insecure: true  
 ```
 
-## 一些链接
+## Links
 - [linuxdeploy-2.6.0-259](/linuxdeploy-2.6.0-259.apk)
 - [fread](/fread.apk)
 - [github pages自定义域名配置](/github_pages_custom_domain.md)
