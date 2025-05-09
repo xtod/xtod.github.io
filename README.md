@@ -34,6 +34,7 @@ tls:
 
 ## Links
 - [linuxdeploy-2.6.0-259.apk](/linuxdeploy-2.6.0-259.apk)
+- [anlinux_v6.68.apk](/anlinux_v6.68.apk)
 - [busybox-v1_34_1-52.apk](/busybox-v1_34_1-52.apk)
 - <https://github.com/meefik/busybox>
 - [fread](/fread.apk)
