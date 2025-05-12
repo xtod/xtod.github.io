@@ -1,43 +1,42 @@
-# Chirpy Starter
+# Operating System ViewPoint
+## ZeroOmega
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+<https://github.com/zero-peak/ZeroOmega>
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+- [Chrome Web Store](https://chromewebstore.google.com/detail/pfnededegaaopdmhkdmcofjmoldfiped)
+- [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/zeroomegaproxy-switchy-/dmaldhchmoafliphkijbfhaomcgglmgd)
+- [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/zeroomega/)
+- [ZeroOmegaOptions.bak](ZeroOmegaOptions.bak)
+- [gfwlist.txt](https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt) [localhost](/gfwlist.txt)
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
-
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+## Hysteria
+```sh
+bash <(curl -fsSL https://get.hy2.sh/)
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+- [hysteria-windows-amd64-avx.exe](/hysteria-windows-amd64-avx.7z)
+- [hysteria-linux-amd64-avx](/hysteria-linux-amd64-avx.7z)
 
-## Usage
+```sh
+## config.yaml
+server: your.domain.net:443 
+auth: Se7RAuFZ8Lzg 
+bandwidth: 
+  up: 20 mbps
+  down: 100 mbps
+socks5:
+  listen: 127.0.0.1:1080 
+http:
+  listen: 127.0.0.1:8080
+tls:
+  insecure: true  
+```
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## Links
+- [linuxdeploy-2.6.0-259.apk](/linuxdeploy-2.6.0-259.apk)
+- [anlinux_v6.68.apk](/anlinux_v6.68.apk)
+- [busybox-v1_34_1-52.apk](/busybox-v1_34_1-52.apk)
+- <https://github.com/meefik/busybox>
+- [fread](/fread.apk)
+- [github pages自定义域名配置](/github_pages_custom_domain.md)
+- <https://github.com/DesktopECHO/linuxdeploy-images>
