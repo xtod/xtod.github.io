@@ -1,1 +1,2 @@
-# xtod.github.io
+# 0sh
+http://0sh.xyz
